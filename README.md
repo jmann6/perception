@@ -97,7 +97,7 @@ use perceptual color spaces like CIE.
 [Generating Color Palettes using Intuitive Parameters](http://magnaview.nl/documents/MagnaView-M_Wijffelaars-Generating_color_palettes_using_intuitive_parameters.pdf) &
 [How to Avoid Equidistant Colors](http://vis4.net/blog/posts/avoid-equidistant-hsv-colors/)
 
-When choosing map and visualization colors, check that your color scheme is colorblind friendly and [ADA: Section 508 compliant](http://www.hhs.gov/web/508/accessiblefiles/checklisthtml.html).  [ColorBrewer](http://colorbrewer2.org/) is a great resource to check colorblind safe, print friendly, and photocopy safe color schemes.
+When choosing map and visualization colors, check that your color scheme is colorblind friendly and [ADA: Section 508 compliant](http://www.hhs.gov/web/508/accessiblefiles/checklisthtml.html).  [ColorBrewer](http://colorbrewer2.org/) is a great resource to check colorblind safe, print friendly, and photocopy safe color schemes.  Another way to test that color contrasts meet WCAG 2.0 guidelines is to test them with the [WebAIM: Color Contrast Color Checker](http://webaim.org/resources/contrastchecker/)
 
 ## Fisheye Effect
 
