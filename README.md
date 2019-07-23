@@ -109,6 +109,7 @@ _[d3 example](http://bost.ocks.org/mike/fisheye/)_
 
 ## Chart Types
 
+* [Data Visualization Infographic](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png). A smorgasbord of data visualization techniques in an easy-to-read infographic.
 * [Horizon charts](http://www.perceptualedge.com/articles/visual_business_intelligence/time_on_the_horizon.pdf) improve recognition of both small and large changes for data that fits x & y axes, like time series
 * [Chord diagrams](http://genome.cshlp.org/content/early/2009/06/15/gr.092759.109.full.pdf+html) enable visualization of multi-dimensional and connected data
 * [Stacked Graphs](http://www.leebyron.com/else/streamgraph/) also known as streamgraphs, which gained popularity with ThemeRiver and its
